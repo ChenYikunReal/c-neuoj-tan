@@ -113,7 +113,7 @@ int main() {
 }
 ```
 
-4.代码如下(懒得写链表了)：
+4.代码如下：
 ```c
 #include <stdio.h>
 #include <stdlib.h>
